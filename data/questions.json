@@ -1,0 +1,1108 @@
+[
+  {
+    "id": "hgd-001",
+    "area": "HGD",
+    "topic": "Erikson",
+    "stem": "A 15-year-old tells the social worker that this year they have dyed their hair three times, switched friend groups twice, and can't decide whether they want to be an artist or join the military like their father. According to Erikson, this adolescent is working through which psychosocial stage?",
+    "options": [
+      "Identity vs. role confusion",
+      "Industry vs. inferiority",
+      "Intimacy vs. isolation",
+      "Initiative vs. guilt"
+    ],
+    "answer": 0,
+    "explanation": "Identity vs. role confusion (roughly ages 12–18) centers on experimenting with roles, values, and affiliations to form a coherent sense of self. Industry vs. inferiority is school age (competence); intimacy vs. isolation is young adulthood (close relationships); initiative vs. guilt is preschool."
+  },
+  {
+    "id": "hgd-002",
+    "area": "HGD",
+    "topic": "Piaget",
+    "stem": "An 8-year-old correctly explains that pouring juice from a short wide glass into a tall thin glass does not change the amount, but struggles when asked to reason about a purely hypothetical situation. Which Piagetian stage is the child in?",
+    "options": [
+      "Concrete operational",
+      "Preoperational",
+      "Formal operational",
+      "Sensorimotor"
+    ],
+    "answer": 0,
+    "explanation": "Conservation is mastered in the concrete operational stage (about 7–11). Abstract, hypothetical-deductive reasoning arrives later, in formal operations (about 11+). Preoperational children (2–7) typically fail conservation tasks."
+  },
+  {
+    "id": "hgd-003",
+    "area": "HGD",
+    "topic": "Attachment",
+    "stem": "During a Strange Situation procedure, a toddler shows little distress when the mother leaves and actively ignores and turns away from her when she returns. This pattern is BEST described as:",
+    "options": [
+      "Insecure-avoidant attachment",
+      "Insecure-ambivalent (resistant) attachment",
+      "Disorganized attachment",
+      "Secure attachment"
+    ],
+    "answer": 0,
+    "explanation": "Avoidant infants show minimal distress at separation and avoid the caregiver at reunion. Ambivalent/resistant infants are very distressed and are hard to soothe, mixing clinging with anger. Disorganized infants show contradictory or frightened behavior (freezing, approaching then retreating)."
+  },
+  {
+    "id": "hgd-004",
+    "area": "HGD",
+    "topic": "Mahler",
+    "stem": "A mother reports that her 20-month-old, who used to happily wander off to explore, now repeatedly runs back to her, clings, and gets upset when she leaves the room, then pushes her away. According to Margaret Mahler, the child is in which subphase of separation-individuation?",
+    "options": [
+      "Rapprochement",
+      "Practicing",
+      "Differentiation (hatching)",
+      "Object constancy"
+    ],
+    "answer": 0,
+    "explanation": "Rapprochement (about 15–24 months) is marked by the toddler's renewed need for closeness as they realize their separateness, producing ambivalence: clinging alternating with pushing away. Practicing (about 10–16 months) is the confident 'love affair with the world' exploration phase."
+  },
+  {
+    "id": "hgd-005",
+    "area": "HGD",
+    "topic": "Grief",
+    "stem": "A client with terminal cancer says, \"If I just follow my treatment perfectly and go back to church, maybe I'll get to see my granddaughter graduate next spring.\" According to Kübler-Ross, this reflects which stage?",
+    "options": [
+      "Bargaining",
+      "Denial",
+      "Depression",
+      "Acceptance"
+    ],
+    "answer": 0,
+    "explanation": "Bargaining involves 'if…then' attempts to postpone loss, often directed at a higher power. Note that the stages are not strictly linear; clients can move back and forth between them."
+  },
+  {
+    "id": "hgd-006",
+    "area": "HGD",
+    "topic": "Family systems",
+    "stem": "Parents in a high-conflict marriage each complain to their 12-year-old daughter about the other parent, and the daughter has started having stomachaches before school. From a Bowenian perspective, the parents' behavior is an example of:",
+    "options": [
+      "Triangulation",
+      "Differentiation of self",
+      "Emotional cutoff",
+      "Multigenerational transmission"
+    ],
+    "answer": 0,
+    "explanation": "Triangulation occurs when a two-person system under stress pulls in a third person (often a child) to lower anxiety. Differentiation is the ability to separate thinking from feeling and self from others; emotional cutoff is managing unresolved issues by distancing."
+  },
+  {
+    "id": "hgd-007",
+    "area": "HGD",
+    "topic": "Defense mechanisms",
+    "stem": "After being reprimanded by his supervisor, a man comes home and yells at his children for leaving shoes in the hallway. Which defense mechanism is he using?",
+    "options": [
+      "Displacement",
+      "Projection",
+      "Sublimation",
+      "Reaction formation"
+    ],
+    "answer": 0,
+    "explanation": "Displacement redirects feelings from a threatening target (the boss) to a safer one (the children). Projection attributes one's own unacceptable feelings to others. Sublimation channels impulses into socially acceptable outlets. Reaction formation is behaving opposite to one's true feelings."
+  },
+  {
+    "id": "hgd-008",
+    "area": "HGD",
+    "topic": "Defense mechanisms",
+    "stem": "A woman who privately resents her younger sister's success is noticeably, excessively affectionate and complimentary toward the sister in public. This is BEST described as:",
+    "options": [
+      "Reaction formation",
+      "Undoing (symbolic cancellation)",
+      "Rationalization (false reasons)",
+      "Identification with the sister"
+    ],
+    "answer": 0,
+    "explanation": "Reaction formation manages an unacceptable impulse by exaggerating its opposite. Undoing is an act meant to symbolically cancel a prior unacceptable act or thought. Rationalization offers plausible but false reasons for behavior."
+  },
+  {
+    "id": "hgd-009",
+    "area": "HGD",
+    "topic": "Acculturation",
+    "stem": "A family that immigrated four years ago is referred because their 16-year-old son is staying out late and refusing to attend family religious events. The parents say he is 'losing who he is.' What should the social worker do FIRST?",
+    "options": [
+      "Explore each family member's cultural values and experiences of acculturation",
+      "Advise the parents to set firmer curfews and consequences",
+      "Assess the son for oppositional defiant disorder",
+      "Encourage the parents to allow the son more independence, consistent with U.S. norms"
+    ],
+    "answer": 0,
+    "explanation": "Different rates of acculturation between generations (an acculturation gap) are a common source of family conflict. Before intervening, the worker should assess and understand each member's cultural perspective. Imposing either the parents' or the majority culture's norms, or pathologizing the teen, skips assessment."
+  },
+  {
+    "id": "hgd-010",
+    "area": "HGD",
+    "topic": "Aging",
+    "stem": "A 74-year-old reports that she sometimes forgets where she put her glasses or the name of an acquaintance, but usually remembers later. She manages her finances, cooks, and drives without problems. This presentation is MOST consistent with:",
+    "options": [
+      "Normal age-related cognitive change",
+      "Major neurocognitive disorder",
+      "Delirium",
+      "Pseudodementia due to depression"
+    ],
+    "answer": 0,
+    "explanation": "Occasional retrieval lapses with later recall and intact daily functioning are typical of normal aging. Major neurocognitive disorder requires significant decline that interferes with independence in everyday activities. Delirium has acute onset and fluctuating attention."
+  },
+  {
+    "id": "hgd-011",
+    "area": "HGD",
+    "topic": "Trauma",
+    "stem": "The Adverse Childhood Experiences (ACE) study is MOST notable for finding that:",
+    "options": [
+      "As the number of ACEs increases, the risk of many negative adult health outcomes increases in a dose-response pattern",
+      "ACEs were found to be rare in the study's middle-class sample and concentrated mainly among families living in poverty",
+      "Only direct physical and sexual abuse, not household dysfunction, predicted negative adult health outcomes in the study",
+      "Most children who experienced four or more ACEs went on to meet full diagnostic criteria for PTSD in adulthood"
+    ],
+    "answer": 0,
+    "explanation": "The CDC–Kaiser ACE study found a graded, dose-response relationship between ACE count and risks such as heart disease, substance use, depression, and early death. ACEs were common in a largely middle-class, insured sample, and household dysfunction (not only abuse) contributed to risk."
+  },
+  {
+    "id": "hgd-012",
+    "area": "HGD",
+    "topic": "Ecological theory",
+    "stem": "A school social worker arranges regular meetings between a student's foster parents and his teacher to coordinate behavior plans. In Bronfenbrenner's ecological model, this intervention targets the:",
+    "options": [
+      "Mesosystem",
+      "Microsystem",
+      "Exosystem",
+      "Macrosystem"
+    ],
+    "answer": 0,
+    "explanation": "The mesosystem is the set of connections between a person's microsystems (here, home and school). The microsystem is each immediate setting; the exosystem includes settings that affect the person indirectly (e.g., a parent's workplace); the macrosystem is broad cultural values and policy."
+  },
+  {
+    "id": "hgd-013",
+    "area": "HGD",
+    "topic": "Kohlberg",
+    "stem": "Asked why people shouldn't steal, a 13-year-old answers, \"Because it's against the law, and society would fall apart if everyone ignored the rules.\" According to Kohlberg, this reasoning reflects:",
+    "options": [
+      "Conventional morality (law-and-order orientation)",
+      "Preconventional morality (punishment-obedience orientation)",
+      "Postconventional morality (universal ethical principles)",
+      "Preconventional morality (instrumental exchange)"
+    ],
+    "answer": 0,
+    "explanation": "Stage 4 of the conventional level focuses on maintaining social order and obeying laws. Preconventional reasoning centers on avoiding punishment or getting rewards; postconventional reasoning appeals to principles that may override laws."
+  },
+  {
+    "id": "hgd-014",
+    "area": "HGD",
+    "topic": "Gender identity",
+    "stem": "During intake, a 28-year-old client shares that they are transgender and use the name Jordan, which differs from the name on their insurance card. The client is seeking help for work stress. The social worker should:",
+    "options": [
+      "Use the name and pronouns the client uses and focus on the presenting concern",
+      "Explore how the client's gender identity is causing the work stress",
+      "Use the legal name in session to stay consistent with records",
+      "Refer the client to a gender identity specialist"
+    ],
+    "answer": 0,
+    "explanation": "Affirming practice means using the client's name and pronouns and not assuming their identity is the problem. The client came for work stress; gender identity becomes relevant only if the client connects it (e.g., workplace discrimination). Referring out because of identity alone is inappropriate."
+  },
+  {
+    "id": "hgd-015",
+    "area": "HGD",
+    "topic": "Systems theory",
+    "stem": "Two clients grew up in very different circumstances, one in poverty with an absent parent and one in an affluent, stable home, yet both developed severe anxiety as adults. Which systems concept does this illustrate?",
+    "options": [
+      "Equifinality",
+      "Multifinality",
+      "Homeostasis",
+      "Entropy"
+    ],
+    "answer": 0,
+    "explanation": "Equifinality means different starting points can lead to the same outcome. Multifinality is the reverse: the same starting point leads to different outcomes. Homeostasis is a system's tendency to maintain balance."
+  },
+  {
+    "id": "hgd-016",
+    "area": "HGD",
+    "topic": "Maslow",
+    "stem": "A client facing eviction in two weeks asks to spend sessions working on her self-esteem. Applying Maslow's hierarchy, what should the social worker do FIRST?",
+    "options": [
+      "Help the client address the housing crisis",
+      "Begin cognitive work on negative self-beliefs",
+      "Explore childhood experiences that shaped her self-image",
+      "Respect self-determination and focus only on self-esteem"
+    ],
+    "answer": 0,
+    "explanation": "Basic physiological and safety needs (shelter) take priority over esteem needs. This doesn't override self-determination; it means raising the housing crisis with the client and helping address it so higher-level work can be effective."
+  },
+  {
+    "id": "adt-001",
+    "area": "ADT",
+    "topic": "Suicide risk",
+    "stem": "Near the end of a session, a client who has been depressed for months says quietly, \"I don't think it really matters anymore. Everyone would be better off without me.\" What should the social worker do FIRST?",
+    "options": [
+      "Ask the client directly whether they are thinking about suicide",
+      "Schedule an extra session later in the week",
+      "Reassure the client that their family loves them",
+      "Refer the client to a psychiatrist for a medication evaluation"
+    ],
+    "answer": 0,
+    "explanation": "Statements of hopelessness and being a burden are warning signs. The FIRST step is to assess risk directly: ask about suicidal thoughts, plan, intent, means, and history. Asking does not plant the idea. Reassurance and referral are premature before assessment."
+  },
+  {
+    "id": "adt-002",
+    "area": "ADT",
+    "topic": "Depressive disorders",
+    "stem": "A 40-year-old reports feeling down 'pretty much always' for the past three years, with low energy, poor concentration, and feelings of hopelessness. She says she has never gone more than a few weeks feeling okay. Which diagnosis is MOST likely?",
+    "options": [
+      "Persistent depressive disorder",
+      "Major depressive disorder, single episode",
+      "Cyclothymic disorder",
+      "Adjustment disorder with depressed mood"
+    ],
+    "answer": 0,
+    "explanation": "Persistent depressive disorder requires depressed mood most of the day, more days than not, for at least 2 years in adults (1 year in children/adolescents), without symptom-free periods longer than 2 months. Cyclothymia involves alternating hypomanic and depressive symptoms."
+  },
+  {
+    "id": "adt-003",
+    "area": "ADT",
+    "topic": "Bipolar disorders",
+    "stem": "A client was hospitalized after three days of not sleeping, talking rapidly, spending $15,000 on a 'can't-miss' business idea, and believing he had been chosen to advise the president. He has had depressive episodes in the past. Which diagnosis is MOST likely?",
+    "options": [
+      "Bipolar I disorder",
+      "Bipolar II disorder",
+      "Cyclothymic disorder",
+      "Major depressive disorder with anxious distress"
+    ],
+    "answer": 0,
+    "explanation": "A manic episode normally requires 1 week of symptoms, but any duration counts if hospitalization is necessary. One manic episode is enough for Bipolar I. Bipolar II requires hypomania (no hospitalization, no psychosis, no marked impairment) plus a major depressive episode."
+  },
+  {
+    "id": "adt-004",
+    "area": "ADT",
+    "topic": "Bipolar disorders",
+    "stem": "A client describes a 5-day period of unusual energy, little need for sleep, and productivity that coworkers noticed, without impairment at work. She has had two major depressive episodes and has never been psychotic or hospitalized. Which diagnosis fits BEST?",
+    "options": [
+      "Bipolar II disorder",
+      "Bipolar I disorder",
+      "Cyclothymic disorder",
+      "Persistent depressive disorder"
+    ],
+    "answer": 0,
+    "explanation": "Hypomania (at least 4 consecutive days, observable change, no marked impairment, no psychosis, no hospitalization) plus at least one major depressive episode is Bipolar II."
+  },
+  {
+    "id": "adt-005",
+    "area": "ADT",
+    "topic": "Trauma disorders",
+    "stem": "Two weeks after a serious car accident, a client has intrusive memories, nightmares, avoids driving, feels detached, and startles easily. Which diagnosis is MOST appropriate at this point?",
+    "options": [
+      "Acute stress disorder",
+      "Posttraumatic stress disorder",
+      "Adjustment disorder",
+      "Generalized anxiety disorder"
+    ],
+    "answer": 0,
+    "explanation": "Acute stress disorder applies when symptoms last from 3 days to 1 month after the trauma. PTSD requires symptoms lasting more than 1 month. If symptoms persist past a month, the diagnosis would be reconsidered as PTSD."
+  },
+  {
+    "id": "adt-006",
+    "area": "ADT",
+    "topic": "Adjustment disorder",
+    "stem": "Six weeks after being laid off, a client reports tearfulness, worry about finances, and trouble concentrating. The distress is more than expected and affects his relationships, but he does not meet criteria for major depression or an anxiety disorder. Which diagnosis is MOST appropriate?",
+    "options": [
+      "Adjustment disorder with mixed anxiety and depressed mood",
+      "Generalized anxiety disorder with prominent depressive features",
+      "Persistent depressive disorder with anxious distress",
+      "Major depressive disorder, single episode, mild severity"
+    ],
+    "answer": 0,
+    "explanation": "Adjustment disorder involves emotional or behavioral symptoms that begin within 3 months of an identifiable stressor, are out of proportion or impairing, and don't meet criteria for another disorder. GAD requires 6 months; PDD requires 2 years."
+  },
+  {
+    "id": "adt-007",
+    "area": "ADT",
+    "topic": "Psychotic disorders",
+    "stem": "A 22-year-old has had auditory hallucinations, disorganized speech, and social withdrawal for the past 4 months. There is no substance use or medical cause, and mood symptoms have been minimal. Which diagnosis is MOST likely?",
+    "options": [
+      "Schizophreniform disorder",
+      "Schizophrenia",
+      "Brief psychotic disorder",
+      "Schizoaffective disorder"
+    ],
+    "answer": 0,
+    "explanation": "Schizophreniform disorder: schizophrenia-like symptoms lasting at least 1 month but less than 6 months. Schizophrenia requires 6 months of continuous signs. Brief psychotic disorder lasts 1 day to under 1 month. Schizoaffective requires a concurrent major mood episode."
+  },
+  {
+    "id": "adt-008",
+    "area": "ADT",
+    "topic": "Neurocognitive",
+    "stem": "An 81-year-old nursing home resident who was alert and oriented last week is now confused, inattentive, and agitated, and her confusion gets worse in the evenings. Staff say it began suddenly over two days. What should the social worker do FIRST?",
+    "options": [
+      "Arrange an immediate medical evaluation",
+      "Administer a cognitive screening to stage her dementia",
+      "Recommend a more structured daily routine",
+      "Meet with family to discuss memory care placement"
+    ],
+    "answer": 0,
+    "explanation": "Sudden onset, fluctuating attention, and disorientation point to delirium, which is a medical emergency often caused by infection (e.g., UTI), medications, or dehydration. Rule out medical causes first. Dementia develops gradually."
+  },
+  {
+    "id": "adt-009",
+    "area": "ADT",
+    "topic": "Anxiety disorders",
+    "stem": "A client reports four episodes in the past two months of sudden pounding heart, chest tightness, shortness of breath, and fear that he is dying. He has never seen a doctor about them. What should the social worker do FIRST?",
+    "options": [
+      "Refer the client for a medical evaluation",
+      "Diagnose panic disorder and begin CBT",
+      "Teach diaphragmatic breathing",
+      "Explore recent stressors that may have triggered the episodes"
+    ],
+    "answer": 0,
+    "explanation": "Chest pain and shortness of breath can indicate cardiac, thyroid, or other medical problems. Medical causes must be ruled out before a panic disorder diagnosis. This 'refer for medical evaluation first' pattern appears often on the exam."
+  },
+  {
+    "id": "adt-010",
+    "area": "ADT",
+    "topic": "Anxiety disorders",
+    "stem": "For the past 8 months, a client has worried excessively about her job, her children's health, and money. She finds it hard to stop worrying and reports muscle tension, poor sleep, and irritability. Which diagnosis is MOST likely?",
+    "options": [
+      "Generalized anxiety disorder",
+      "Panic disorder",
+      "Illness anxiety disorder",
+      "Adjustment disorder with anxiety"
+    ],
+    "answer": 0,
+    "explanation": "GAD: excessive, hard-to-control worry about multiple domains for at least 6 months, with at least 3 of 6 symptoms in adults (restlessness, fatigue, poor concentration, irritability, muscle tension, sleep disturbance). There's no single identifiable stressor as in adjustment disorder."
+  },
+  {
+    "id": "adt-011",
+    "area": "ADT",
+    "topic": "Personality disorders",
+    "stem": "A 26-year-old client describes intense relationships that quickly shift from idealizing to devaluing partners, frantic efforts to avoid being left, chronic emptiness, and repeated cutting when upset. Which personality disorder is MOST consistent with this pattern?",
+    "options": [
+      "Borderline personality disorder",
+      "Histrionic personality disorder",
+      "Dependent personality disorder",
+      "Narcissistic personality disorder"
+    ],
+    "answer": 0,
+    "explanation": "Borderline PD features unstable relationships with idealization/devaluation, abandonment fears, identity disturbance, impulsivity, recurrent self-harm, affective instability, chronic emptiness, intense anger, and stress-related paranoia or dissociation. Dependent PD involves submissive clinging without the instability and self-harm."
+  },
+  {
+    "id": "adt-012",
+    "area": "ADT",
+    "topic": "Personality disorders",
+    "stem": "Which requirement must be met to diagnose antisocial personality disorder?",
+    "options": [
+      "The person is at least 18 and there is evidence of conduct disorder with onset before age 15",
+      "The person has a documented criminal conviction and a pattern of deceitfulness since adolescence",
+      "The antisocial behavior began after age 18 and is not better explained by substance use",
+      "The person shows a complete lack of remorse across all situations and relationships since childhood"
+    ],
+    "answer": 0,
+    "explanation": "DSM-5-TR requires age 18 or older and evidence of conduct disorder beginning before age 15. A criminal record is not required, and lack of remorse is one possible criterion, not a mandatory one."
+  },
+  {
+    "id": "adt-013",
+    "area": "ADT",
+    "topic": "Child disorders",
+    "stem": "A 9-year-old has, for the past 8 months, frequently lost his temper, argued with adults, refused to follow rules, and deliberately annoyed his sister. He has not been physically aggressive, destroyed property, or stolen. Which diagnosis is MOST likely?",
+    "options": [
+      "Oppositional defiant disorder",
+      "Conduct disorder",
+      "Intermittent explosive disorder",
+      "Disruptive mood dysregulation disorder"
+    ],
+    "answer": 0,
+    "explanation": "ODD: at least 6 months of angry/irritable mood, argumentative/defiant behavior, or vindictiveness. Conduct disorder involves violating others' rights or major norms (aggression, destruction, theft, serious rule violations). DMDD requires severe, frequent outbursts with persistent irritability between them."
+  },
+  {
+    "id": "adt-014",
+    "area": "ADT",
+    "topic": "Child disorders",
+    "stem": "To diagnose ADHD under DSM-5-TR, several symptoms must have been present:",
+    "options": [
+      "Before age 12 and in two or more settings",
+      "Before age 7 and in at least one setting",
+      "Before age 12 and in at least one setting",
+      "Before age 18 and in two or more settings"
+    ],
+    "answer": 0,
+    "explanation": "DSM-5 moved the age-of-onset criterion from 7 to 12, and symptoms must be present in two or more settings (e.g., home and school). For individuals 17 and older, 5 symptoms (rather than 6) per domain are required."
+  },
+  {
+    "id": "adt-015",
+    "area": "ADT",
+    "topic": "Substance use",
+    "stem": "A client who drinks heavily every day tells the social worker he plans to quit 'cold turkey' this weekend. What should the social worker do FIRST?",
+    "options": [
+      "Advise him to consult a medical provider about safe, supervised withdrawal",
+      "Praise his motivation and help him plan distracting activities for the weekend",
+      "Refer him to an Alcoholics Anonymous meeting to attend over the weekend",
+      "Explore his ambivalence about quitting before he takes any action this weekend"
+    ],
+    "answer": 0,
+    "explanation": "Withdrawal from alcohol (and from benzodiazepines/sedatives) can cause seizures and delirium tremens and can be fatal. Safety comes first: heavy daily drinkers should withdraw under medical supervision. Opioid withdrawal, while very uncomfortable, is rarely life-threatening by itself."
+  },
+  {
+    "id": "adt-016",
+    "area": "ADT",
+    "topic": "Mental status exam",
+    "stem": "When asked what brought her in, a client describes the bus route, the weather, her neighbor's dog, and her breakfast in great detail before finally explaining she has been feeling depressed. This thought process is BEST described as:",
+    "options": [
+      "Circumstantiality",
+      "Tangentiality",
+      "Loose associations",
+      "Flight of ideas"
+    ],
+    "answer": 0,
+    "explanation": "In circumstantiality, the person includes excessive, unnecessary detail but eventually reaches the point. In tangentiality, the person drifts off and never returns to the point. Loose associations are shifts between unrelated ideas; flight of ideas is rapid topic-jumping, often seen in mania."
+  },
+  {
+    "id": "adt-017",
+    "area": "ADT",
+    "topic": "Eating disorders",
+    "stem": "A 19-year-old college student of normal weight reports binge eating followed by self-induced vomiting about twice a week for the past 4 months. She is very concerned about her body shape. Which diagnosis is MOST likely?",
+    "options": [
+      "Bulimia nervosa",
+      "Anorexia nervosa, binge-eating/purging type",
+      "Binge-eating disorder",
+      "Avoidant/restrictive food intake disorder"
+    ],
+    "answer": 0,
+    "explanation": "Bulimia nervosa: recurrent binges with compensatory behavior at least once a week for 3 months, with self-evaluation unduly influenced by shape/weight. Anorexia requires significantly low body weight. Binge-eating disorder has no regular compensatory behavior."
+  },
+  {
+    "id": "adt-018",
+    "area": "ADT",
+    "topic": "Psychopharmacology",
+    "stem": "A client taking lithium for bipolar disorder reports vomiting, diarrhea, a coarse hand tremor, and feeling confused since yesterday. What should the social worker do FIRST?",
+    "options": [
+      "Help the client get immediate medical attention",
+      "Suggest the client drink more water and rest",
+      "Document the symptoms and discuss them at the next session",
+      "Explore whether the client has been feeling anxious"
+    ],
+    "answer": 0,
+    "explanation": "These are signs of possible lithium toxicity, which can be life-threatening. Lithium has a narrow therapeutic window; dehydration, NSAIDs, and some other medications can raise levels. The client needs urgent medical evaluation."
+  },
+  {
+    "id": "adt-019",
+    "area": "ADT",
+    "topic": "Psychopharmacology",
+    "stem": "A client who has taken a first-generation antipsychotic for many years has developed involuntary lip smacking, tongue movements, and grimacing. These symptoms are MOST likely:",
+    "options": [
+      "Tardive dyskinesia",
+      "Neuroleptic malignant syndrome",
+      "Akathisia",
+      "Serotonin syndrome"
+    ],
+    "answer": 0,
+    "explanation": "Tardive dyskinesia is a late-onset, often persistent movement disorder of the face, mouth, and tongue after long-term antipsychotic use. NMS is an acute emergency with fever, rigidity, and altered consciousness. Akathisia is inner restlessness and an urge to move."
+  },
+  {
+    "id": "adt-020",
+    "area": "ADT",
+    "topic": "Treatment planning",
+    "stem": "Which of the following is the BEST-written treatment objective for a client with depression?",
+    "options": [
+      "Client will walk for 20 minutes at least 4 days per week for the next 6 weeks, as recorded in an activity log",
+      "Client will feel noticeably less depressed and more hopeful about the future by the end of treatment",
+      "Client will gain insight into the childhood experiences and beliefs that contribute to her depression",
+      "Client will attend weekly therapy sessions consistently and work on improving her mood and energy"
+    ],
+    "answer": 0,
+    "explanation": "Good objectives are specific, measurable, achievable, relevant, and time-bound (SMART). Only the first option states a concrete behavior, frequency, timeframe, and method of measurement."
+  },
+  {
+    "id": "adt-021",
+    "area": "ADT",
+    "topic": "Somatic disorders",
+    "stem": "A client is convinced she has an undiagnosed brain tumor. She has no significant physical symptoms, has had several normal scans, and checks online for symptoms for hours each day. Which diagnosis is MOST likely?",
+    "options": [
+      "Illness anxiety disorder",
+      "Somatic symptom disorder",
+      "Conversion disorder (functional neurological symptom disorder)",
+      "Factitious disorder"
+    ],
+    "answer": 0,
+    "explanation": "Illness anxiety disorder is preoccupation with having or getting a serious illness when somatic symptoms are absent or mild. Somatic symptom disorder centers on distressing physical symptoms. Factitious disorder involves deliberately falsifying symptoms without obvious external reward."
+  },
+  {
+    "id": "adt-022",
+    "area": "ADT",
+    "topic": "Intellectual disability",
+    "stem": "Under DSM-5-TR, the severity level of intellectual developmental disorder (mild, moderate, severe, profound) is determined primarily by:",
+    "options": [
+      "Adaptive functioning",
+      "IQ score",
+      "Age of onset",
+      "Presence of a known genetic cause"
+    ],
+    "answer": 0,
+    "explanation": "DSM-5 shifted severity from IQ ranges to adaptive functioning in conceptual, social, and practical domains, because adaptive functioning determines the level of support needed. Onset must still occur during the developmental period."
+  },
+  {
+    "id": "adt-023",
+    "area": "ADT",
+    "topic": "Child abuse",
+    "stem": "While a 6-year-old changes for gym, a school social worker notices loop-shaped bruises on the child's back at different stages of healing. The child says he 'fell.' What should the social worker do?",
+    "options": [
+      "Report the suspected abuse to child protective services",
+      "Call the parents to ask how the bruises happened",
+      "Interview the child in detail to establish what happened",
+      "Monitor the child and report if more bruises appear"
+    ],
+    "answer": 0,
+    "explanation": "Patterned (loop/cord-shaped) bruises in multiple stages of healing with an implausible explanation are strong indicators of abuse. Mandated reporters need only reasonable suspicion, not proof. Investigating, contacting parents first, or waiting can endanger the child and compromise the investigation."
+  },
+  {
+    "id": "adt-024",
+    "area": "ADT",
+    "topic": "Assessment",
+    "stem": "A new client is referred for 'anger problems' by his employer. In the first session, what should the social worker do FIRST?",
+    "options": [
+      "Gather information about the client's view of the problem and his history",
+      "Teach him two anger management techniques he can begin using at work this week",
+      "Develop a treatment plan with measurable goals for reducing his workplace outbursts",
+      "Contact the employer to get details of the incidents that led to the referral"
+    ],
+    "answer": 0,
+    "explanation": "Assessment precedes intervention and planning. Start with the client's own understanding of why he is there. Contacting the employer requires the client's written consent."
+  },
+  {
+    "id": "adt-025",
+    "area": "ADT",
+    "topic": "Obsessive-compulsive",
+    "stem": "A client spends two hours a day checking that the stove is off and the doors are locked, knows the fear is excessive, and feels intense anxiety if prevented from checking. Which diagnosis is MOST likely?",
+    "options": [
+      "Obsessive-compulsive disorder",
+      "Obsessive-compulsive personality disorder",
+      "Generalized anxiety disorder",
+      "Hoarding disorder"
+    ],
+    "answer": 0,
+    "explanation": "OCD involves obsessions and/or compulsions that are time-consuming (more than 1 hour a day) or cause distress. Symptoms are usually ego-dystonic (unwanted). OCPD is a pervasive, ego-syntonic pattern of perfectionism and control without true obsessions and compulsions."
+  },
+  {
+    "id": "pci-001",
+    "area": "PCI",
+    "topic": "Motivational interviewing",
+    "stem": "A client says, \"I know my drinking upsets my wife, but it's the only way I can relax after work.\" Which response BEST reflects motivational interviewing?",
+    "options": [
+      "\"On one hand drinking helps you unwind, and on the other you see it's hurting your marriage.\"",
+      "\"It sounds like you really need to find some healthier ways to relax after work.\"",
+      "\"Have you ever considered that your drinking might mean you have an alcohol problem?\"",
+      "\"What do you think your wife would say about your drinking if she were here today?\""
+    ],
+    "answer": 0,
+    "explanation": "A double-sided reflection captures both sides of ambivalence without arguing, which invites the client to explore change talk. Advising, labeling, and confronting tend to create resistance."
+  },
+  {
+    "id": "pci-002",
+    "area": "PCI",
+    "topic": "Stages of change",
+    "stem": "A client who smokes says, \"I know I need to quit eventually, and I've been thinking about it more since my checkup, but I'm not ready yet.\" According to the transtheoretical model, the client is in which stage?",
+    "options": [
+      "Contemplation",
+      "Precontemplation",
+      "Preparation",
+      "Action"
+    ],
+    "answer": 0,
+    "explanation": "Contemplation is awareness of the problem and considering change, with ambivalence and no commitment yet. Precontemplation is no intention to change. Preparation involves intending to act soon (often within a month) and taking small steps."
+  },
+  {
+    "id": "pci-003",
+    "area": "PCI",
+    "topic": "Stages of change",
+    "stem": "A client mandated to treatment after a DUI insists, \"I don't have a problem. Everyone drinks. I just got unlucky.\" Which intervention is MOST appropriate for this stage?",
+    "options": [
+      "Build rapport and raise awareness by exploring the client's own experiences",
+      "Develop a detailed relapse prevention plan with the client's identified triggers",
+      "Help the client set a specific quit date and plan for the first week of sobriety",
+      "Confront the client's denial directly using evidence from the police arrest report"
+    ],
+    "answer": 0,
+    "explanation": "In precontemplation, the goal is engagement and consciousness-raising, not action planning. Confrontation tends to increase resistance. Relapse prevention fits the maintenance stage; setting a quit date fits preparation."
+  },
+  {
+    "id": "pci-004",
+    "area": "PCI",
+    "topic": "CBT",
+    "stem": "A graduate student says, \"If I don't get an A on this exam, I'm a complete failure.\" In cognitive therapy, this is an example of:",
+    "options": [
+      "All-or-nothing (dichotomous) thinking",
+      "Personalization (blaming oneself)",
+      "Mind reading (assuming others' thoughts)",
+      "Emotional reasoning (feelings as facts)"
+    ],
+    "answer": 0,
+    "explanation": "All-or-nothing thinking sees things in only two categories (perfect or failure). Personalization is blaming oneself for events outside one's control; mind reading is assuming you know what others think; emotional reasoning treats feelings as facts."
+  },
+  {
+    "id": "pci-005",
+    "area": "PCI",
+    "topic": "DBT",
+    "stem": "A client with borderline personality disorder and a history of repeated self-harm is referred for treatment. Which approach has the STRONGEST evidence base for this presentation?",
+    "options": [
+      "Dialectical behavior therapy",
+      "Psychodynamic play therapy",
+      "Solution-focused brief therapy",
+      "Systematic desensitization"
+    ],
+    "answer": 0,
+    "explanation": "DBT was developed by Marsha Linehan for chronically suicidal clients with BPD. It combines individual therapy, skills groups (mindfulness, distress tolerance, emotion regulation, interpersonal effectiveness), phone coaching, and a therapist consultation team."
+  },
+  {
+    "id": "pci-006",
+    "area": "PCI",
+    "topic": "Behavioral therapy",
+    "stem": "Which intervention is considered first-line psychotherapy for obsessive-compulsive disorder?",
+    "options": [
+      "Exposure and response prevention",
+      "Psychoanalytic free association",
+      "Aversion therapy with conditioning",
+      "Narrative re-authoring of the problem"
+    ],
+    "answer": 0,
+    "explanation": "ERP systematically exposes the client to obsession-triggering situations while preventing the compulsive ritual, so anxiety decreases without the compulsion. SSRIs are the first-line medication."
+  },
+  {
+    "id": "pci-007",
+    "area": "PCI",
+    "topic": "Behavioral therapy",
+    "stem": "A social worker teaches a client with a fear of elevators progressive muscle relaxation, then has the client imagine a series of increasingly anxiety-provoking elevator scenes while staying relaxed. This technique is:",
+    "options": [
+      "Systematic desensitization",
+      "Flooding (implosive therapy)",
+      "Aversive conditioning therapy",
+      "Shaping by successive approximation"
+    ],
+    "answer": 0,
+    "explanation": "Systematic desensitization (Wolpe) pairs relaxation with a graded fear hierarchy (reciprocal inhibition). Flooding is immediate, intense exposure to the most feared stimulus without gradual steps."
+  },
+  {
+    "id": "pci-008",
+    "area": "PCI",
+    "topic": "Solution-focused",
+    "stem": "A social worker asks a client, \"Think about a time in the past month when the arguing with your son didn't happen, or was less intense. What was different then?\" This is an example of:",
+    "options": [
+      "An exception question",
+      "The miracle question",
+      "A scaling question",
+      "Externalizing the problem"
+    ],
+    "answer": 0,
+    "explanation": "Exception questions, from solution-focused brief therapy, look for times when the problem was absent or less severe in order to build on existing strengths. The miracle question asks the client to imagine life if the problem were solved overnight."
+  },
+  {
+    "id": "pci-009",
+    "area": "PCI",
+    "topic": "Narrative therapy",
+    "stem": "A social worker asks a child, \"When does the Worry Monster try to boss you around, and when have you been able to stand up to it?\" Which approach is the worker using?",
+    "options": [
+      "Narrative therapy",
+      "Structural family therapy",
+      "Psychodynamic therapy",
+      "Reality therapy"
+    ],
+    "answer": 0,
+    "explanation": "Externalizing the problem ('the person is not the problem; the problem is the problem') is a core narrative therapy technique (White and Epston). It helps clients separate their identity from the problem and author alternative stories."
+  },
+  {
+    "id": "pci-010",
+    "area": "PCI",
+    "topic": "Crisis intervention",
+    "stem": "A woman arrives at an agency without an appointment, crying and shaking, saying her partner just threw her against a wall and she is afraid to go home. What should the social worker do FIRST?",
+    "options": [
+      "Assess her immediate safety and any injuries",
+      "Explore the history of the relationship",
+      "Encourage her to press charges",
+      "Give her information about a support group"
+    ],
+    "answer": 0,
+    "explanation": "In crisis intervention, the first priority is assessing safety and lethality (including medical needs). History-taking, legal options, and longer-term resources come after immediate safety is addressed."
+  },
+  {
+    "id": "pci-011",
+    "area": "PCI",
+    "topic": "Group work",
+    "stem": "In the fourth session of a new therapy group, members challenge the leader's rules, two members argue about who talks too much, and some question whether the group is useful. Which stage of group development is this?",
+    "options": [
+      "Storming (power and control)",
+      "Forming (preaffiliation)",
+      "Norming (intimacy)",
+      "Performing (differentiation)"
+    ],
+    "answer": 0,
+    "explanation": "Storming, or the power and control stage in the Boston model, involves conflict, testing the leader, and struggles over roles and norms. The leader should allow conflict, model respectful disagreement, and help the group set norms."
+  },
+  {
+    "id": "pci-012",
+    "area": "PCI",
+    "topic": "Case management",
+    "stem": "A client with schizophrenia has missed three psychiatric appointments in a row. Her case manager is concerned she will lose her place at the clinic. What should the case manager do FIRST?",
+    "options": [
+      "Ask the client about what is getting in the way of attending",
+      "Inform the client that she will be discharged if she misses another appointment",
+      "Arrange for a family member to bring her to appointments",
+      "Request that the psychiatrist increase her medication"
+    ],
+    "answer": 0,
+    "explanation": "Before acting, explore barriers with the client: transportation, side effects, symptoms, cost, or scheduling conflicts. This respects self-determination and leads to the right solution. Threats and unilateral arrangements skip assessment."
+  },
+  {
+    "id": "pci-013",
+    "area": "PCI",
+    "topic": "Termination",
+    "stem": "As planned termination approaches, a client who had been doing well begins reporting a return of old symptoms and asks if they can keep meeting. What should the social worker do?",
+    "options": [
+      "Explore the client's feelings about ending and review progress made",
+      "Extend treatment indefinitely, since symptoms have returned",
+      "Proceed with termination as scheduled without discussing it further",
+      "Refer the client to another clinician for continued treatment"
+    ],
+    "answer": 0,
+    "explanation": "Temporary regression is a common reaction to termination. The worker should acknowledge and process feelings about the ending, review gains, and reinforce coping skills. Extending treatment may be appropriate only after assessment shows a real need."
+  },
+  {
+    "id": "pci-014",
+    "area": "PCI",
+    "topic": "Countertransference",
+    "stem": "A social worker notices she feels unusually irritated and impatient with an older male client who reminds her of her critical father. What should the social worker do?",
+    "options": [
+      "Seek supervision or consultation to address her reactions",
+      "Transfer the client to another worker immediately",
+      "Tell the client he reminds her of her father",
+      "Ignore the feelings, since they are unrelated to the client"
+    ],
+    "answer": 0,
+    "explanation": "This is countertransference: the worker's own feelings projected onto the client. The appropriate response is self-awareness and supervision. Transfer is premature unless the reaction can't be managed. Self-disclosure here would serve the worker, not the client."
+  },
+  {
+    "id": "pci-015",
+    "area": "PCI",
+    "topic": "Family interventions",
+    "stem": "Research on 'expressed emotion' (criticism, hostility, emotional overinvolvement) in families of people with schizophrenia suggests which intervention?",
+    "options": [
+      "Family psychoeducation to reduce high expressed emotion",
+      "Reducing contact between the client and family",
+      "Psychoanalytic exploration of the client's early relationships",
+      "Paradoxical interventions to prescribe the symptom"
+    ],
+    "answer": 0,
+    "explanation": "High expressed emotion in households predicts higher relapse rates in schizophrenia. Family psychoeducation teaches families about the illness, communication, and problem-solving, and has strong evidence for reducing relapse."
+  },
+  {
+    "id": "pci-016",
+    "area": "PCI",
+    "topic": "Trauma-informed care",
+    "stem": "In the middle of trauma-focused work, a client says she doesn't want to talk about the assault today and would rather discuss a problem at work. Applying trauma-informed principles, the social worker should:",
+    "options": [
+      "Respect her choice and work on the issue she brings",
+      "Gently insist, since avoidance maintains trauma symptoms",
+      "Point out that she is resisting treatment",
+      "End the session early so she can rest"
+    ],
+    "answer": 0,
+    "explanation": "Trauma-informed care emphasizes safety, trustworthiness, choice, collaboration, and empowerment. Supporting the client's control over pacing rebuilds the sense of agency that trauma takes away. Avoidance can be addressed collaboratively later."
+  },
+  {
+    "id": "pci-017",
+    "area": "PCI",
+    "topic": "Interpreters",
+    "stem": "A Spanish-speaking mother brings her 11-year-old bilingual son to a session to interpret, because the agency's interpreter is not available today. The social worker does not speak Spanish. What should the social worker do?",
+    "options": [
+      "Reschedule or use a professional phone/video interpreter instead of the child",
+      "Use the son as interpreter for this session, since the mother has given consent",
+      "Conduct the session in English, speaking slowly and checking for understanding",
+      "Ask a bilingual receptionist at the agency to step in and interpret the session"
+    ],
+    "answer": 0,
+    "explanation": "Children should not interpret for parents: it reverses family roles, can expose them to sensitive material, and is unreliable. Untrained staff also lack interpreting skills and confidentiality training. Use a qualified interpreter (phone/video if needed)."
+  },
+  {
+    "id": "pci-018",
+    "area": "PCI",
+    "topic": "Structural family therapy",
+    "stem": "A family therapist observes that the mother and 14-year-old daughter share every detail of each other's lives and speak for each other, while the father is disengaged. Using Minuchin's approach, the therapist would MOST likely:",
+    "options": [
+      "Work to strengthen the parental subsystem and create clearer boundaries",
+      "Coach each member to construct a new narrative about the family",
+      "Explore the multigenerational patterns of anxiety",
+      "Prescribe that the mother and daughter spend even more time together"
+    ],
+    "answer": 0,
+    "explanation": "Structural family therapy focuses on reorganizing family structure: boundaries, subsystems, and hierarchy. Here the mother-daughter relationship is enmeshed and the father disengaged, so the goal is strengthening the parental subsystem and clarifying boundaries. Prescribing the symptom is a strategic technique."
+  },
+  {
+    "id": "pci-019",
+    "area": "PCI",
+    "topic": "Harm reduction",
+    "stem": "A client who injects heroin says he is not interested in stopping. Which response is MOST consistent with a harm reduction approach?",
+    "options": [
+      "Provide information on syringe services and naloxone",
+      "Tell the client services will only continue if he commits to abstinence",
+      "Refer him to an inpatient treatment program",
+      "Discharge him until he is ready to change"
+    ],
+    "answer": 0,
+    "explanation": "Harm reduction meets clients where they are and reduces the negative consequences of use (overdose, HIV, hepatitis C) without requiring abstinence. Naloxone and sterile syringes are core strategies."
+  },
+  {
+    "id": "pci-020",
+    "area": "PCI",
+    "topic": "Child interventions",
+    "stem": "A 5-year-old has become withdrawn and has nightmares after her parents' divorce. She has trouble answering questions about her feelings. Which intervention is MOST developmentally appropriate?",
+    "options": [
+      "Play therapy",
+      "Cognitive restructuring",
+      "Insight-oriented talk therapy",
+      "Group therapy with adolescents"
+    ],
+    "answer": 0,
+    "explanation": "Young children have limited ability to verbalize feelings and abstract thought. Play is their natural language for expressing and working through experiences, which makes play therapy developmentally appropriate."
+  },
+  {
+    "id": "pci-021",
+    "area": "PCI",
+    "topic": "Advocacy",
+    "stem": "A social worker learns that several clients have been denied benefits because a local office requires documents that are not legally required. What is the MOST appropriate action?",
+    "options": [
+      "Advocate with the agency and relevant authorities to change the practice",
+      "Help each affected client gather the extra documents the office is requesting",
+      "Advise the affected clients to file individual appeals of the denials on their own",
+      "Accept the requirement, since each local office may set its own procedures"
+    ],
+    "answer": 0,
+    "explanation": "When a problem affects many clients because of an unfair or unlawful policy, social workers have an ethical responsibility to engage in class (cause) advocacy for systemic change, not only case-by-case help."
+  },
+  {
+    "id": "eth-001",
+    "area": "ETH",
+    "topic": "Duty to protect",
+    "stem": "During a session, a client who is angry about a custody decision says, \"I know where my ex's new boyfriend works. I bought a gun last week, and I'm going to make him pay on Friday.\" What should the social worker do?",
+    "options": [
+      "Take steps to protect the identified person as required by law, such as notifying the person and/or police",
+      "Maintain confidentiality, since the threat was made in session, and explore the client's anger in depth next week",
+      "Ask the client to sign a written no-harm contract before leaving the session and schedule a follow-up visit",
+      "Document the statement thoroughly and consult with a colleague at the next team meeting about how to proceed"
+    ],
+    "answer": 0,
+    "explanation": "A specific, credible threat against an identifiable person triggers the duty to warn/protect (Tarasoff), which overrides confidentiality. Specific steps depend on state law. No-harm contracts are not protective, and waiting is inappropriate given the imminent threat."
+  },
+  {
+    "id": "eth-002",
+    "area": "ETH",
+    "topic": "Confidentiality",
+    "stem": "At the beginning of the first session with a new client, what should the social worker do?",
+    "options": [
+      "Explain the limits of confidentiality as part of informed consent",
+      "Ask about the client's most traumatic experiences to obtain a complete history",
+      "Assure the client that everything said in session will remain completely private",
+      "Wait until a concerning disclosure arises before raising the topic of confidentiality"
+    ],
+    "answer": 0,
+    "explanation": "Under NASW standards, clients should be informed as early as possible about confidentiality and its limits (e.g., danger to self or others, child/elder abuse, court orders). Promising total confidentiality is inaccurate."
+  },
+  {
+    "id": "eth-003",
+    "area": "ETH",
+    "topic": "Subpoenas",
+    "stem": "A social worker receives a subpoena from an attorney requesting a client's complete treatment records. The client has not given consent. What should the social worker do?",
+    "options": [
+      "Contact the client, and assert privilege on the client's behalf unless the client consents or a court orders release",
+      "Send the complete records to the attorney promptly, since a subpoena is a legally binding document that must be obeyed",
+      "Disregard the subpoena entirely, because client records are confidential and protected from any legal process",
+      "Send the attorney a brief treatment summary instead of the full record to balance legal and ethical obligations"
+    ],
+    "answer": 0,
+    "explanation": "A subpoena is not a court order; it requires a response but not automatic disclosure. The worker should notify the client, seek legal advice as needed, and claim privilege. If a court orders disclosure without consent, the worker should ask the court to limit the order or keep the records sealed."
+  },
+  {
+    "id": "eth-004",
+    "area": "ETH",
+    "topic": "Mandated reporting",
+    "stem": "A 10-year-old client tells the social worker that her mother's boyfriend touches her inappropriately, then begs the worker not to tell anyone. What should the social worker do?",
+    "options": [
+      "Report to child protective services and tell the child, in an age-appropriate way, that the worker must get help to keep her safe",
+      "Keep the disclosure confidential for now to preserve trust, and continue to explore the situation with the child in future sessions",
+      "Contact the mother's boyfriend to hear his side of the story before deciding whether a report to the authorities is warranted",
+      "Wait until the child shares more specific details in later sessions so that the report is accurate and can be substantiated"
+    ],
+    "answer": 0,
+    "explanation": "Mandated reporters must report reasonable suspicion of child abuse; they do not investigate or need certainty. Being honest with the child about the limits of confidentiality supports trust. Confronting the alleged perpetrator could endanger the child."
+  },
+  {
+    "id": "eth-005",
+    "area": "ETH",
+    "topic": "Gifts",
+    "stem": "At the end of successful treatment, a client gives the social worker an expensive designer watch as a thank-you gift. What should the social worker do?",
+    "options": [
+      "Thank the client, decline the gift, and discuss its meaning",
+      "Accept the gift graciously, since the treatment relationship has ended",
+      "Accept the gift privately and then donate it to a local charity",
+      "Accept the gift to avoid offending the client at the final session"
+    ],
+    "answer": 0,
+    "explanation": "An expensive gift creates a potential boundary violation and conflict of interest. The worker should decline respectfully and explore the meaning of the gift, guided by agency policy and cultural context. Small, token gifts may be handled differently."
+  },
+  {
+    "id": "eth-006",
+    "area": "ETH",
+    "topic": "Impaired colleague",
+    "stem": "A social worker notices that a colleague has smelled of alcohol at work several times and recently missed client appointments. According to the NASW Code of Ethics, what should the social worker do FIRST?",
+    "options": [
+      "Speak with the colleague directly, when feasible, and help them take remedial action",
+      "Report the colleague to the state licensing board so the board can investigate the impairment",
+      "Inform the colleague's clients so they can decide whether to continue receiving services",
+      "Document the observations carefully and wait to see whether the pattern continues over time"
+    ],
+    "answer": 0,
+    "explanation": "NASW Code 2.08/2.09: social workers who know of a colleague's impairment should consult with that colleague when feasible and assist them in taking remedial action. If the colleague doesn't take adequate steps, the worker should go through appropriate channels (employers, NASW, licensing boards)."
+  },
+  {
+    "id": "eth-007",
+    "area": "ETH",
+    "topic": "Competence",
+    "stem": "A client asks her social worker to provide EMDR for her trauma symptoms after reading about it online. The worker has not been trained in EMDR. What should the social worker do?",
+    "options": [
+      "Explain that she is not trained in EMDR and discuss options, including referral to a qualified provider",
+      "Study EMDR through books and online videos and begin using it with the client once she feels prepared",
+      "Explain to the client that EMDR lacks research support and recommend a different trauma treatment instead",
+      "Begin using EMDR techniques with the client while getting informal guidance from a colleague who uses it"
+    ],
+    "answer": 0,
+    "explanation": "Social workers practice only within the boundaries of their education, training, and supervised experience. New techniques require appropriate training and supervision. The worker can offer other evidence-based trauma treatments she is competent in, or refer. (EMDR is an evidence-based PTSD treatment.)"
+  },
+  {
+    "id": "eth-008",
+    "area": "ETH",
+    "topic": "Self-determination",
+    "stem": "A competent adult client who has been physically abused by her husband decides to remain in the relationship. What should the social worker do?",
+    "options": [
+      "Respect her decision and work with her on a safety plan",
+      "Inform her that services will end unless she agrees to leave him",
+      "Report the abuse to adult protective services for investigation",
+      "Contact her family members and ask them to help persuade her to leave"
+    ],
+    "answer": 0,
+    "explanation": "Competent adults have the right to self-determination. Adult protective services generally applies to vulnerable or dependent adults, not every adult victim of intimate partner violence (check state law). Safety planning respects the client's choice while addressing risk."
+  },
+  {
+    "id": "eth-009",
+    "area": "ETH",
+    "topic": "Social media",
+    "stem": "A current client sends the social worker a friend request on a personal social media account. What should the social worker do?",
+    "options": [
+      "Decline the request and discuss boundaries with the client, consistent with agency policy",
+      "Accept the request but adjust privacy settings and avoid posting any personal content online",
+      "Quietly ignore the request and avoid bringing it up with the client unless the client asks",
+      "Accept the request, since connecting online can strengthen rapport and the working alliance"
+    ],
+    "answer": 0,
+    "explanation": "Accepting creates a dual relationship and risks confidentiality and boundary problems (NASW 1.06(e)). Ignoring it without discussion misses a chance to clarify boundaries. Best practice is a social media policy shared during informed consent."
+  },
+  {
+    "id": "eth-010",
+    "area": "ETH",
+    "topic": "Client records",
+    "stem": "A client asks to see her own clinical record. According to the NASW Code of Ethics, the social worker should:",
+    "options": [
+      "Provide reasonable access, limiting it only in exceptional circumstances where there is compelling evidence it would cause serious harm",
+      "Refuse the request, because clinical records belong to the agency and are kept only for professional and billing purposes",
+      "Provide a written summary of the record instead, since clients should never see the full clinical notes about themselves",
+      "Require the client to obtain a court order or attorney's request before any portion of the record can be released to her"
+    ],
+    "answer": 0,
+    "explanation": "NASW 1.08: social workers should provide clients reasonable access to their records, and should help interpret them. Access may be limited only in exceptional circumstances with compelling evidence of serious harm, and both the request and the reason for withholding should be documented."
+  },
+  {
+    "id": "eth-011",
+    "area": "ETH",
+    "topic": "Bartering",
+    "stem": "A client who has lost her job offers to clean the social worker's house in exchange for continuing therapy. Under the NASW Code of Ethics, bartering:",
+    "options": [
+      "Should be avoided, and is acceptable only in very limited circumstances where the worker bears the burden of showing it isn't harmful",
+      "Is always prohibited under the Code, regardless of the client's financial situation or the community's norms around payment",
+      "Is acceptable whenever the client is the one who proposes it, since that shows the arrangement is voluntary and not coercive",
+      "Is acceptable as long as the services exchanged are of equal market value and the arrangement is documented in the record"
+    ],
+    "answer": 0,
+    "explanation": "NASW 1.13(b): social workers should avoid accepting goods or services as payment. It is allowed only when it is an accepted practice in the community, essential to providing services, negotiated without coercion, and entered at the client's initiative with informed consent. The worker assumes full burden. Cleaning the worker's home also creates a problematic dual relationship."
+  },
+  {
+    "id": "eth-012",
+    "area": "ETH",
+    "topic": "Dual relationships",
+    "stem": "A social worker in a small rural town learns that a new client is the parent of a child on her daughter's soccer team. What is the BEST course of action?",
+    "options": [
+      "Discuss the overlapping relationship with the client, set clear boundaries, and seek consultation",
+      "Decline to see the client and refer them elsewhere, since any dual relationship is prohibited",
+      "Withdraw her daughter from the soccer team to eliminate the overlap before treatment begins",
+      "Proceed with treatment without raising the issue, since the overlap is unavoidable in a small town"
+    ],
+    "answer": 0,
+    "explanation": "When dual relationships are unavoidable, as is often true in rural areas, social workers are responsible for setting clear, appropriate, and culturally sensitive boundaries (NASW 1.06(c)). Discussing it openly and consulting protects the client."
+  },
+  {
+    "id": "eth-013",
+    "area": "ETH",
+    "topic": "Sexual relationships",
+    "stem": "Under the NASW Code of Ethics, which statement about sexual relationships is accurate?",
+    "options": [
+      "Social workers should not have sexual relationships with clients' close relatives if there is a risk of exploitation or harm to the client",
+      "Sexual relationships with former clients are permitted under the Code once at least two years have passed since termination",
+      "Sexual relationships with current clients are permitted under the Code only when the client initiates and freely consents",
+      "When a client consents to a relationship, responsibility for maintaining appropriate boundaries shifts to the client"
+    ],
+    "answer": 0,
+    "explanation": "NASW 1.09 prohibits sexual activity with current clients under all circumstances, and also prohibits it with clients' relatives or close personal acquaintances when there is a risk of exploitation or harm. With former clients, the Code sets no time limit; the worker bears full responsibility for showing no exploitation. Social workers are always responsible for setting boundaries."
+  },
+  {
+    "id": "eth-014",
+    "area": "ETH",
+    "topic": "Termination",
+    "stem": "A client in private practice has not paid for six sessions despite discussing a payment plan. She is not at risk of harming herself or others. Under the NASW Code of Ethics, the social worker:",
+    "options": [
+      "May terminate if the financial arrangements were made clear, the client is not a danger, and the consequences of nonpayment were discussed",
+      "Must continue providing services regardless of payment, because terminating for financial reasons is considered client abandonment",
+      "May end services immediately without notice, since the client has already broken the financial agreement they made at intake",
+      "Should send the unpaid balance to a collection agency while continuing to see the client weekly until the debt is fully resolved"
+    ],
+    "answer": 0,
+    "explanation": "NASW 1.17(c): social workers in fee-for-service settings may terminate for nonpayment if the contractual arrangements were made clear, the client poses no imminent danger, and the clinical and other consequences of nonpayment were addressed with the client. Referrals should be offered."
+  },
+  {
+    "id": "eth-015",
+    "area": "ETH",
+    "topic": "Impairment",
+    "stem": "A social worker going through a painful divorce notices she has been distracted in sessions and has forgotten important client details. What should she do?",
+    "options": [
+      "Seek consultation and professional help, and adjust her workload as needed to protect clients",
+      "Keep working as usual, since her personal life is separate from her professional responsibilities",
+      "Briefly share her situation with clients so that they understand why she has seemed distracted",
+      "Close her practice immediately and refer all of her clients to other providers in the community"
+    ],
+    "answer": 0,
+    "explanation": "NASW 4.05: social workers whose personal problems interfere with professional judgment should seek consultation and take remedial action, such as getting help, adjusting workload, or limiting practice. Closing the practice may be necessary only if lesser steps fail."
+  },
+  {
+    "id": "eth-016",
+    "area": "ETH",
+    "topic": "Cultural competence",
+    "stem": "A social worker is assigned a client from a cultural background she knows little about. What is the MOST appropriate action?",
+    "options": [
+      "Seek education about the culture while asking the client about their own experiences and values",
+      "Rely on the client to teach her everything she needs to know about the culture during sessions",
+      "Transfer the client to a colleague who shares the client's cultural background as soon as possible",
+      "Use the same approach she uses with all clients, since good practice is the same for everyone"
+    ],
+    "answer": 0,
+    "explanation": "NASW 1.05: social workers should seek education about clients' cultures and not place the burden of education solely on the client, while recognizing that each individual's experience of their culture differs (cultural humility). Transfer based on culture alone is not appropriate."
+  },
+  {
+    "id": "eth-017",
+    "area": "ETH",
+    "topic": "Informed consent",
+    "stem": "A client with a court-ordered treatment requirement tells the social worker he doesn't want her reporting his attendance to his probation officer. What should the social worker do?",
+    "options": [
+      "Explain the nature of mandated services, what will be reported, and his right to refuse along with its consequences",
+      "Agree not to report his attendance to the probation officer, in order to protect the therapeutic alliance with him",
+      "Report everything discussed in sessions to the probation officer, since the court ordered the client into treatment",
+      "Refuse to provide services to the client, since he will not agree to the reporting conditions set by the court order"
+    ],
+    "answer": 0,
+    "explanation": "NASW 1.03(d): with involuntary clients, social workers should explain the nature and extent of services and the client's right to refuse. Informed consent includes clarity about what information will be shared and with whom; only information relevant to the mandate should be disclosed."
+  }
+]
